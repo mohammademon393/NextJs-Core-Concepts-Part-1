@@ -5,7 +5,7 @@ const Dashboard = () => {
     return (
       <div>
         <Title>
-          This is the dashboard page. You can add your dashboard content here.
+          You can add your dashboard content here.
         </Title>
       </div>
     );
