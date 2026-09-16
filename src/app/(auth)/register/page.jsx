@@ -1,10 +1,10 @@
 import React from 'react';
-import Title from '../components/Title';
+import Title from '../../components/Title';
 
 const Register = () => {
     return (
         <div>
-            <Title>Wellcome to register page</Title>
+            <Title>This is the register page</Title>
         </div>
     );
 };
