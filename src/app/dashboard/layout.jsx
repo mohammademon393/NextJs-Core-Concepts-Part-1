@@ -15,19 +15,19 @@ const DashboardLayout = ({ children }) => {
           <div className="flex flex-col space-y-4 mt-5">
             <Link
               href="/dashboard/add-story"
-              className="py-2 px-4 mx-2 bg-blue-900 text-white rounded text-center hover:bg-black  transition duration-300"
+              className="py-2 px-4 mx-2 bg-sky-500 text-white rounded text-center hover:bg-black  transition duration-300"
             >
               Add Story
             </Link>
             <Link
               href="/dashboard/my-profile"
-              className="py-2 px-4 mx-2 bg-blue-900 text-white rounded text-center hover:bg-black  transition duration-300"
+              className="py-2 px-4 mx-2 bg-sky-500 text-white rounded text-center hover:bg-black  transition duration-300"
             >
               My Profile
             </Link>
             <Link
               href="/dashboard/settings"
-              className="py-2 px-4 mx-2 bg-blue-900 text-white rounded text-center hover:bg-black  transition duration-300"
+              className="py-2 px-4 mx-2 bg-sky-500 text-white rounded text-center hover:bg-black  transition duration-300"
             >
               Settings
             </Link>
